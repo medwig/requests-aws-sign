@@ -7,7 +7,6 @@ setup(
     name='requests_aws_sign',
     version='0.1.3',
     packages=[ 'requests_aws_sign' ],
-    install_requires=[ 'requests>=2.0.0', 'boto3' ],
     provides=[ 'requests_aws_sign' ],
     author='Justin Menga',
     author_email='justin.menga@gmail.com',
